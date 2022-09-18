@@ -3,6 +3,7 @@ font-family:"Pixelated MS Sans Serif";
 src:url(ms_sans_serif.woff) format("woff");
 src:url(ms_sans_serif.woff2) format("woff2");
 font-weight:400;
+font-size: 102%;
 font-style:normal;
 }
 
@@ -11,6 +12,7 @@ font-family:"Pixelated MS Sans Serif";
 src:url(ms_sans_serif.woff) format("woff");
 src:url(ms_sans_serif.woff2) format("woff2");
 font-weight:700;
+font-size: 102%;
 font-style:normal;
 }
 
